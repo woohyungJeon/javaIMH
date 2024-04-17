@@ -1,0 +1,4 @@
+package Access;
+
+class A {
+}
