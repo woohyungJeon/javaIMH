@@ -1,4 +1,4 @@
-package OverLoading;
+package ClassExample;
 
 class OverloadingTest{
     //이름이 cat인 메소드
@@ -14,7 +14,7 @@ class OverloadingTest{
 
 }
 
-public class Overtest{
+public class OverloadingExample{
     public static void main(String[] args) {
 
         //OverloadingTest 객체 생성

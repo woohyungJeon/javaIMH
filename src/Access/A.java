@@ -1,4 +1,0 @@
-package Access;
-
-class A {
-}
